@@ -79,3 +79,9 @@ Probability of cyclone formation
 Cyclone intensity patterns
 
 Weather conditions associated with cyclone development
+
+🚀 How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/yourusername/ai-tropical-cyclone-forecasting.git
