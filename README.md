@@ -84,4 +84,4 @@ Weather conditions associated with cyclone development
 
 Clone the repository
 
-git clone https://github.com/yourusername/ai-tropical-cyclone-forecasting.git
+git clone https://github.com/Hafy-hafiz/ai-tropical-cyclone-forecasting.git
